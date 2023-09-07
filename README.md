@@ -12,9 +12,6 @@ I'm a passionate software developer on a mission to explore the ever-evolving wo
 * 🧠  I'm learning WebGL, WebGPU and Three.js.
 * 🤝  I'm open to collaborating on Interesting projects
 
-<a href="https://www.github.com/MeghanaNalla" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MeghanaNalla?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
